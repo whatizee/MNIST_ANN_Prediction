@@ -1,4 +1,3 @@
-Here's a suggested description for the GitHub repository focused on MNIST digit classification using an Artificial Neural Network (ANN):
 
 ---
 
